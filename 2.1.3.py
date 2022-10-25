@@ -4,6 +4,3 @@
 '''
 def sub_strings(s: str, sub: str) -> int:
     print(str.count(sub))
-str = input()
-sub = input()
-sub_strings(str, sub)
